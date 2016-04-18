@@ -1,2 +1,2 @@
 # jianzhioffer
-剑指Offer刷题过程记录。
+用Java代码实现《剑指Offer》中的题目。
